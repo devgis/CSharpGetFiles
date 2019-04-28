@@ -1,0 +1,8 @@
+F:\GetFile\GetFile\bin\Debug\GetFileList.exe
+F:\GetFile\GetFile\bin\Debug\GetFileList.pdb
+F:\GetFile\GetFile\obj\Debug\GetFileList.csprojResolveAssemblyReference.cache
+F:\GetFile\GetFile\obj\Debug\GetFileList.Main.resources
+F:\GetFile\GetFile\obj\Debug\GetFileList.Properties.Resources.resources
+F:\GetFile\GetFile\obj\Debug\GetFileList.csproj.GenerateResource.Cache
+F:\GetFile\GetFile\obj\Debug\GetFileList.exe
+F:\GetFile\GetFile\obj\Debug\GetFileList.pdb
